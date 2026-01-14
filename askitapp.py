@@ -4,8 +4,8 @@ from datetime import datetime
 import databricks.sql
 import threading
 
-st.set_page_config(page_title="AskIT Chatbot")
-st.title("AskIT Chatbot")
+st.set_page_config(page_title="Ask Ace Chatbot")
+st.title("Ask Ace Chatbot")
 
 # -----------------------------
 # Typing indicator CSS (inject every run so it always animates)
